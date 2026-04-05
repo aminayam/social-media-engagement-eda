@@ -1,5 +1,18 @@
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Environment files
 .env
+
+# Data folder (if you have private datasets)
 data/
